@@ -1,4 +1,5 @@
 print("May the forks be with you")
-print("Alfred is snoring")
+print("git pull a day keeps the conflicts away")
 
 # More github jokes: https://github.com/EugeneKay/git-jokes/blob/lulz/Jokes.txt
+# Feel free to git push any jokes

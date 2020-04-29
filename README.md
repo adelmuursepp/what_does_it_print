@@ -1,2 +1,2 @@
 # what_does_it_print
-Repo for learning python
+This is simply a repo to practice cloning to computer
